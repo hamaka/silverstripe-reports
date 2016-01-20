@@ -16,7 +16,7 @@
 	],
 	"require": {
 		"php": ">=5.3.3",
-		"silverstripe/framework": "dev-hamaka-master"
+		"silverstripe/framework": "dev-hamaka-stable"
 	},
 	"require-dev": {
 		"phpunit/PHPUnit": "~3.7"
