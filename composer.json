@@ -1,6 +1,7 @@
 {
 	"name": "silverstripe/reports",
 	"type": "silverstripe-module",
+	"description": "Reports module for SilverStripe CMS",
 	"homepage": "http://silverstripe.org",
 	"license": "BSD-3-Clause",
 	"keywords": ["silverstripe", "cms", "reports"],
